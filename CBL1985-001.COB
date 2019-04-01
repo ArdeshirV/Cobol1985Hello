@@ -1,0 +1,8 @@
+00020 *Cobol 1985 example
+00030 *Copyright (c) 2014 ArdeshirV@protonmail.com, Licensed GPLv3+
+000200 IDENTIFICATION DIVISION.
+000300 PROGRAM-ID. hello.
+000400 PROCEDURE DIVISION.
+000500   DISPLAY "Hello, world from COBOL 1985!".
+000600   STOP RUN.
+
